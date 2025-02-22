@@ -30,9 +30,6 @@ This is the React Front-End for a Recipe Sharing Platform built using MERN Stack
 
 🔧 Installation & Setup
 1. Clone the Repository
-   sh
-   git clone https://github.com/your-username/recipe-sharing-platform-frontend.git
-   cd recipe-sharing-platform-frontend
    
 2. Install Dependencies
    sh
@@ -41,7 +38,7 @@ This is the React Front-End for a Recipe Sharing Platform built using MERN Stack
 3. Start the Development Server
    sh
    npm start
-   
+   ```
 4. Backend Setup (Run the backend separately using Node.js & Express)
 
 🔗 API Endpoints (Connected to Backend)
